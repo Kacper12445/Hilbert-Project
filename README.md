@@ -13,8 +13,8 @@ Hilbert is a web application, designated for text classification. It implements 
 Creating your own instance of the application is as easy as this:
 
 ```
-git clone https://github.com/Majkel1999/Hilbert/
-cd Hilbert
+https://github.com/Kacper12445/Hilbert-Project.git
+cd Hilbert-Project
 docker-compose up 
 ```
 
