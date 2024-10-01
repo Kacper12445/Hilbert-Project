@@ -1,0 +1,32 @@
+.chipContainer {
+  margin: 3px 0;
+  border: 1px solid #2395dc;
+  font-size: 1.3rem;
+  border-radius: 28px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  span {
+    margin: 0 5px;
+    padding: 6px 8px 6px;
+  }
+  svg {
+    cursor: pointer;
+    color: #6b6b6b;
+
+    margin: 2px 16px 0 0;
+    font-size: 20px;
+    &:hover {
+      opacity: 0.4;
+    }
+  }
+
+  &.selected {
+    border: 2px solid #bd2a2e;
+    background-color: #c63559;
+    span {
+      font-weight: bold;
+    }
+  }
+}
