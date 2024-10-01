@@ -1,6 +1,6 @@
 
 # Hilbert - application for text classification
-
+This is a student project completed for class. It has been done as a team work of 5 people.
 
 Hilbert is a web application, designated for text classification. It implements a BERT model, trained via Human-in-the-Loop tactics.
 
